@@ -478,3 +478,5 @@ to get the best performance:
 Or if you want a non-optimised binary for debugging:
 
 	% cargo build
+
+The executable can be found in target/release/.
